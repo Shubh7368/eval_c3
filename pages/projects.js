@@ -2,6 +2,7 @@ import React from 'react';
 import {AiOutlineFolder, AiOutlineStar} from "react-icons/ai"
 import {BiGitRepoForked} from "react-icons/bi"
 
+
 const projects = ({data :{items}}) => {
     console.log(items)
   return (
